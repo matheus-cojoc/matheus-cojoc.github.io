@@ -2,7 +2,7 @@ import decode from 'jwt-decode';
 
 export default class AuthHelperMethods {
     constructor(domain) {
-        this.domain = domain || 'http://localhost:8000'
+        this.domain = domain || 'http://109.166.141.97:1272'
     }
 
     login = (username, password) => {

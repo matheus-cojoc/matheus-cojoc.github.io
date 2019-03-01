@@ -53,7 +53,7 @@ class Login extends Component {
                 <div className="main-wrapper">
                     <div className="box">
                         <div className="box-header">
-                            <h1>O PRIMAVARA FRUMOASA!</h1>
+                            <h1>po/co</h1>
                         </div>
                         <form className="box-form">
                             <input
